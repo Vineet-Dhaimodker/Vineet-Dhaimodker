@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at Persistent
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently a trainee at Persistent
+- 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding
 - 💬 Ask me about tech related stuffs
