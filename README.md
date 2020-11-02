@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🔧 Tools & Technologies
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+<--
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C_Language-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node_JS-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
+-->
+
 - 🔭 I’m currently a trainee at Persistent
 - 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on Github
