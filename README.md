@@ -1,4 +1,4 @@
-### Ay Yo! 👋. I am Vineet
+### Ay Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. I am Vineet
 
 <!--
 **Vineet-Dhaimodker/Vineet-Dhaimodker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
