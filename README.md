@@ -1,5 +1,7 @@
 ### Ay Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. I am Vineet
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vineet-Dhaimodker&label=Views&color=blue&style=plastic" alt="Vineet-Dhaimodker" /> </p>
+
 <!--
 **Vineet-Dhaimodker/Vineet-Dhaimodker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
