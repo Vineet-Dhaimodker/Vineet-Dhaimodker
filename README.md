@@ -42,4 +42,8 @@ Here are some ideas to get you started:
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vin_yeeet/)
 
+<a href="https://github.com/Vineet-Dhaimodker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet-Dhaimodker&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ![Vineet's github stats](https://github-readme-stats.vercel.app/api?username=Vineet-Dhaimodker&show_icons=true&count_private=true&theme=radical )
