@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
-- 🔭 I’m currently a trainee at Persistent
-- 🌱 I’m currently learning Devops
+- 🔭 I’m currently a Software Engineer at Persistent
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with competitive coding
-- 💬 Ask me about tech related stuffs
+- 💬 Ask me about career options stuff
 - 📫 How to reach me: abcdvineet27@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love cricket and football
+- ⚡ Fun fact: I love football and Youtube
 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vin_yeeet/)
