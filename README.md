@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=mongodb&logoColor=green&color=2bbc8a)
 -->
+## Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
