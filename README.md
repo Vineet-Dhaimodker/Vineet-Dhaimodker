@@ -32,14 +32,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
-- 🔭 I’m currently a Graduate student at University of California Riverside
-- 🌱 I’m currently pursuing MS in CS
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with competitive coding
-- 💬 Ask me about career options stuff
-- 📫 How to reach me: abcdvineet27@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love Manchester City, KKR and Youtube
+- 🔭 I’m currently a working as a Data Scientist at Western Digital Corporation
+- 👯 I’m looking to collaborate on Generative AI projects
+- 🤔 I’m looking for guidance with Career growth
+- 💬 Ask me about Generative AI, NLP, LLMs 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vineet-dhaimodker/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a fan of Manchester City and Kolkata Knight Riders
 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vineetdhaimodker/)
