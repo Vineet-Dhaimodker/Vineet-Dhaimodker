@@ -1,5 +1,4 @@
-### Ay Yo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. I am Vineet
-
+### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. You have reached Vineet's github
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vineet-Dhaimodker&label=Views&color=blue&style=plastic" alt="Vineet-Dhaimodker" /> </p>
 
 <!--
@@ -36,12 +35,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Generative AI projects
 - 🤔 I’m looking for guidance with Career growth
 - 💬 Ask me about Generative AI, NLP, LLMs 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vineet-dhaimodker/)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a fan of Manchester City and Kolkata Knight Riders
 
-
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vineetdhaimodker/)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Vineet-Dhaimodker">
