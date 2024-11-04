@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Generative AI projects
 - 🤔 I’m looking for guidance with Career growth
 - 💬 Ask me about Generative AI, NLP, LLMs 
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a fan of Manchester City and Kolkata Knight Riders
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vineet-dhaimodker-b492b1171/)
 
 
 ## &#x1f4c8; GitHub Stats
